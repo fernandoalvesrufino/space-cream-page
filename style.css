@@ -1,0 +1,117 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --bg-header: hsl(218, 17%, 62%);
+  --bg-title: hsl(275, 18%, 79%);
+  --bg-wrapper: hsl(233, 100%, 97%);
+  --bg-span: hsl(312, 91%, 96%);
+
+
+  --font-body: 'Palanquin', sans-serif;
+  --font-title: 'Staatliches', cursive;
+
+  --tc-text: hsl(274, 84%, 12%);
+  --tc-span: hsl(232, 17%, 35%);
+
+
+}
+
+body {
+  width: 100%;
+  font-family: var(--font-body);
+}
+
+header {
+  width: 384px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: var(--bg-header);
+  padding-bottom: 2.9rem;
+}
+
+.logo {
+  margin: 3.2rem auto;
+}
+
+.title {
+  background-color: var(--bg-title);
+  font-family: var(--bg-header);
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title h1 {
+  text-transform: uppercase;
+  font-family: var(--font-title);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 34px;
+
+  letter-spacing: 0.05em;
+
+  color: #FFFFFF;
+
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+
+}
+
+main {
+  padding: 1.4rem 3.2rem 2.4rem;
+  margin: 0 auto;
+  background-color: var(--bg-wrapper);
+  width: 38.4rem;
+}
+
+.wrapper p {
+  width: 30.5rem;
+  /* height: 7.5rem; */
+  
+  font-family: var(--font-body);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.35rem;
+  line-height: 1.5rem;
+  
+  text-align: center;
+
+  color: var(--tc-text);
+  margin: 0 auto 6.3rem;
+}
+
+.box {
+  position: relative;
+}
+
+.box img {
+  border-radius: 2rem;
+  margin-bottom: 3.6rem;
+}
+
+.box span {
+  position: absolute;
+  top: 1.6rem;
+  right: 1.6rem;
+
+  font-family: var(--bg-title);
+  color: var(--tc-span);
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 2rem;
+  line-height: 3.4rem;
+  letter-spacing: 0.05rem;
+
+  background-color: var(--bg-span);
+  border-radius: 2rem;
+
+  padding: 1px 2.4rem;
+}
