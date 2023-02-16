@@ -89,6 +89,7 @@ main {
 
 .box {
   position: relative;
+  animation: downtop 0.8s ease forwards;
 }
 
 .box img {
@@ -97,6 +98,7 @@ main {
 }
 
 .box span {
+  animation: topdown 1s 0.3s ease forwards;
   position: absolute;
   top: 1.6rem;
   right: 1.6rem;
@@ -112,6 +114,30 @@ main {
 
   background-color: var(--bg-span);
   border-radius: 2rem;
-
+  
   padding: 1px 2.4rem;
+  opacity: 0;
+  transform: translateY(-20px);
+}
+
+@keyframes topdown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes downtop {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
