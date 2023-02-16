@@ -16,8 +16,18 @@
 
 <p align="center">
   <img alt="Imagem da página - mobile version" src="./images/mobile-version.png" width="100%">
+  Versão para mobile
 </p>
 
+<p align="center">
+  <img alt="Imagem da página - tablet version" src="./images/tablet-version.png" width="100%">
+  Versão para tablet
+</p>
+
+<p align="center">
+  <img alt="Imagem da página - desktop version" src="./images/desktop-version.png" width="100%">
+  Versão para desktop
+</p>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
