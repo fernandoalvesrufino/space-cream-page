@@ -28,7 +28,8 @@
   <img alt="Imagem da página - desktop version" src="./images/desktop-version.png" width="100%">
   Versão para desktop
 </p>
-## 🚀 Tecnologias
+
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -37,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## Projeto
 
 Construido o site Space Cream, uma página de sorvetes utilizando conceitos de responsividade e display Grid.
 
