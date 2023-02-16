@@ -107,9 +107,21 @@ main {
   animation: downtop 0.8s ease forwards;
 }
 
+.box:hover {
+  cursor: pointer;
+}
+
 .box img {
+  transition: all 0.5s ease;
   border-radius: 2rem;
   margin-bottom: 3.6rem;
+  filter: brightness(0.5);
+}
+
+.box img:hover {
+  transform: scale(1.1);
+  filter: brightness(1);
+
 }
 
 .box span {
@@ -160,6 +172,8 @@ footer {
     transform: translateY(0);
   }
 }
+
+
 
 @media (min-width: 768px) {
   body {
@@ -268,117 +282,24 @@ footer {
   footer a {
     font-style: normal;
     font-weight: 700;
+    text-decoration: none;
+    color: black;
   }
 }
 
 
 @media (min-width: 1100px) {
-  body {
-    display: flex;
-    flex-direction: column;
-  }
-
-  header {
-    margin: 0 auto;
-    width: 100%;
-  }
-
-  .title {
-    margin: 0 auto;
-    width: 50rem;
-    height: 7rem;
-    border-radius: 8px ;
-  }
 
   header p {
-    font-family: 'Roboto', sans-serif;
-    display: block;
-    text-align: center;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.7rem;
-    line-height: 2.8rem;
-    color: #FFFFFF;
-    margin: 4.2rem auto 0;
     width: 100rem;
-  }
-  
-  .content {
-    margin: 6.4rem auto 4.6rem;
-  }
-  
-  main {
-    width: inherit;
-    background-color: #FFFFFF;
-    padding: 0;
-    width: 100%;
-    margin-bottom: 5rem;
-  }
-
-  main p {
-    display: none;
   }
 
   .wrapper {
-    display: grid;
     grid-template-areas: "A B C";
-    gap: 3.2rem;
-  }
-
-  .col-1, .col-2, .col-3 {
-    display: flex;
-    flex-direction: column;
-    gap: 3.2rem;
-  }
-
-  .wrapper img {
-    margin: 0;
-  }
-
-  .wrapper .col-1:nth-child(1) {
-    grid-area: A;
-  }
-  
-  .wrapper .col-2:nth-child(2) {
-    grid-area: B;
   }
 
   .wrapper .col-3:nth-child(3) {
     grid-area: C;
-  }
-
-  .wrapper .col-2 {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .wrapper .col-2 .box:nth-child(1){
-    order: 1;
-  }
-  
-  .wrapper .col-2 .box:nth-child(2){
-    order: 2;
-  }
-
-  footer {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.4rem;
-    line-height: 2.8rem;
-    margin: 0 auto 4.6rem;
-  }
-
-  footer p {
-    font-style: normal;
-    font-weight: 400;
-  }
-
-  footer a {
-    font-style: normal;
-    font-weight: 700;
   }
 
 }
@@ -396,7 +317,6 @@ footer {
   }
 
   .title {
-    height: 7rem;
     width: 100%;
     border-radius: 0;
   }
@@ -405,4 +325,5 @@ footer {
     width: 27.5rem;
     margin: 4.2rem 5rem 0;
   }
+
 }
