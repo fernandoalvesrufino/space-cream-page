@@ -38,6 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+
 ## Projeto
 
 Construido o site Space Cream, uma página de sorvetes utilizando conceitos de responsividade e display Grid.
