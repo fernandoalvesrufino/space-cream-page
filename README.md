@@ -2,12 +2,19 @@
 
 <p align="center">
 
-<p align="center">
+<!-- <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-`portuguese`">README in Portuguese</a>
-</p>
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#readme-in-portuguese">README in Portuguese</a>
+</p> -->
+
+
+&nbsp;&nbsp;&nbsp;[Technologies](#technologies)&nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[Project](#project)&nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[License](#license)&nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[README in Portuguese](#readme-in-portuguese)&nbsp;&nbsp;&nbsp;
+
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -48,7 +55,7 @@ Built the Space Cream website, an ice cream page using concepts of responsive we
 - To access the finished project, [click here](https://fernandoalvesrufino.github.io/space-cream-page/).
 
  
-## :memo: License
+## License
 
 This project is licensed under the MIT.
 
@@ -63,7 +70,7 @@ by Fernando Rufino
 <br>
 <br>
 
-## `portuguese`
+# README in portuguese
 <br>
 <br>
 
