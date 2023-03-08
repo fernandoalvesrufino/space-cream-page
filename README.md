@@ -6,7 +6,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-`Traduzido para o português`">README in Portuguese</a>
+  <a href="#-`portuguese`">README in Portuguese</a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ by Fernando Rufino
 <br>
 <br>
 
-## `Traduzido para o português`
+## `portuguese`
 <br>
 <br>
 
