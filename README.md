@@ -9,11 +9,13 @@
   <a href="#readme-in-portuguese">README in Portuguese</a>
 </p> -->
 
+> [Technologies](#technologies)
 
-&nbsp;&nbsp;&nbsp;[Technologies](#technologies)&nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[Project](#project)&nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[License](#license)&nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[README in Portuguese](#readme-in-portuguese)&nbsp;&nbsp;&nbsp; 
+> [Project](#project)
+
+> [License](#license)
+
+> [README in Portuguese](#readme-in-portuguese)
 
 
 <p align="center">
