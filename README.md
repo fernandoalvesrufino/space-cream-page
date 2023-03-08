@@ -1,3 +1,72 @@
+<h1 align="center"> Space Cream - Ice Cream Website </h1>
+
+<p align="center">
+
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#`Traduzido para o português`">README in Portuguese</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="mobile version" src="./images/mobile-version.png" width="100%">
+  Mobile version
+</p>
+
+<p align="center">
+  <img alt="tablet version" src="./images/tablet-version.png" width="100%">
+  Tablet version
+</p>
+
+<p align="center">
+  <img alt="desktop version" src="./images/desktop-version.png" width="100%">
+  Desktop version
+</p>
+
+## Technologies
+
+This project was developed with the following technologies:
+
+- HTML
+- CSS
+- Git e Github
+- Figma
+
+
+## Project
+
+Built the Space Cream website, an ice cream page using concepts of responsive website and Grid display.
+
+
+- To access the finished project, [click here](https://fernandoalvesrufino.github.io/space-cream-page/).
+
+ 
+## :memo: License
+
+This project is licensed under the MIT.
+
+---
+
+by Fernando Rufino
+
+`Project created by Rocketseat`
+
+
+<br>
+<br>
+<br>
+
+## `Traduzido para o português`
+<br>
+<br>
+
 <h1 align="center"> Space Cream - Site de sorvetes </h1>
 
 <p align="center">
