@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;[Technologies](#technologies)&nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[Project](#project)&nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[License](#license)&nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[README in Portuguese](#readme-in-portuguese)&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;[README in Portuguese](#readme-in-portuguese)&nbsp;&nbsp;&nbsp; 
 
 
 <p align="center">
