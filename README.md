@@ -1,7 +1,5 @@
 <h1 align="center"> Space Cream - Ice Cream Website </h1>
 
-<p align="center">
-
 <!-- <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -45,7 +43,7 @@ This project was developed with the following technologies:
 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 - Figma
 
 
