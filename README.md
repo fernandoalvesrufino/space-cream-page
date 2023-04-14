@@ -1,19 +1,11 @@
 <h1 align="center"> Space Cream - Ice Cream Website </h1>
 
-<!-- <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#readme-in-portuguese">README in Portuguese</a>
-</p> -->
-
-> [Technologies](#technologies)
-
-> [Project](#project)
-
-> [License](#license) 
-
-> [README in Portuguese](#readme-in-portuguese)
+</p>
 
 
 <p align="center">
@@ -79,8 +71,8 @@ by Fernando Rufino
 <p align="center">
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -131,4 +123,4 @@ Esse projeto está sob a licença MIT.
 
 by Fernando Rufino
 
-> Projeto criado pela Rocketseat 
+`Projeto criado pela Rocketseat`
