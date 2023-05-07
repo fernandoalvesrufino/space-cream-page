@@ -57,7 +57,6 @@ by Fernando Rufino
 
 `Project created by Rocketseat`
 
-
 <br>
 <br>
 <br>
